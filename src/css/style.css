@@ -137,7 +137,6 @@ main .link {
     background-color: var(--cor1);
     color: var(--cor5);
     font-weight: 600;
-    padding: 2px 5px;
     text-decoration: none;
 }
 
